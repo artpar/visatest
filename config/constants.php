@@ -2,11 +2,7 @@
 
 define('HOST', 'localhost');
 define('USER', 'root');
-define('PASSWORD', '');
+define('PASSWORD', 'parth123');
 define('DATABASE_NAME', 'khanstore');
 
 define('CURRENCY', '€');
-
-
-
-?>
